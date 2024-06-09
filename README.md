@@ -4,7 +4,7 @@
 
 Sviluppatore del bot **ACC Italia** presso **[Assetto Corsa Competizione Italia][acciDiscord]** e studente a tempo pieno.
 
-Lo spazio mi affascina, abito in montagna e guido una [yamaha][r125]. Se sei finito su questa pagina, probabilmente ti trovi nel posto sbagliato: i miei progetti non sono pubblici nè intendo rendeli tali, pertanto, dubito ci sia qualcosa di interessante; sono un amatore dopotutto. Piuttosto, considera l'idea di contattarmi direttamente se dovessi aver bisogno di me! Cercami su discord come [@andrewroxxy][discord] o usa i bottoni per i miei social. In alternativa, mi trovi anche sul server linkato sopra.
+Lo spazio mi affascina, abito in montagna e guido una [yamaha][r125]. Se sei finito su questa pagina, probabilmente ti trovi nel posto sbagliato: i miei progetti non sono pubblici nè intendo rendeli tali, pertanto, dubito ci sia qualcosa di interessante. Piuttosto, considera l'idea di contattarmi direttamente se dovessi aver bisogno di me! Cercami su discord come [@ilsignorrossi][discord] o usa i bottoni per i miei social. In alternativa, mi trovi anche sul server linkato sopra.
    
 <p align="left">
     <a href="https://letmegooglethat.com/?q=trentino+alto+adige">
